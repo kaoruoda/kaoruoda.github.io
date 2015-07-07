@@ -58,14 +58,14 @@ body {
 /* CONTENT
 -------------------------------------------------- */
 
-.marketing .col-lg-4 {
+.project .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
 }
-.marketing h2 {
+.project h2 {
   font-weight: normal;
 }
-.marketing .col-lg-4 p {
+.project .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
 }
